@@ -6,7 +6,7 @@
 
   "remoteUser": "codespace",
   "overrideCommand": false,
-   "customizations": {
+  "customizations": {
      "vscode": {
          "extensions": [
              "GitHub.copilot"
